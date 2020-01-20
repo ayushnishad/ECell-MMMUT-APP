@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "790746739459",
+    "firebase_url": "https://ecell-mmmut.firebaseio.com",
+    "project_id": "ecell-mmmut",
+    "storage_bucket": "ecell-mmmut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790746739459:android:110972583cad467c502f36",
+        "android_client_info": {
+          "package_name": "com.practice.ecell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790746739459-5g1m4j1356vfanlp9f9mingd6ouetoct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.practice.ecell",
+            "certificate_hash": "9bef0de32275387715a9c1e63e90c7f5dc3864e0"
+          }
+        },
+        {
+          "client_id": "790746739459-us6do2gn4bj259gqauqtvcs9dpfker0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrZ-WUHvEbz8PugTmkIvMmwwzOiNZEXG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790746739459-us6do2gn4bj259gqauqtvcs9dpfker0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
