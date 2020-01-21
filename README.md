@@ -1,10 +1,18 @@
-# ecell
+# ECell-MMMUT
 
-A new Flutter project.
+Welcome to ECell Official GitHub repository
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is solely based on flutter framework.
+
+Play store app link: https://play.google.com/store/apps/details?id=com.practice.ecell
+
+just clone it and run
+
+Happy Coding :)
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
